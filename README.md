@@ -4,3 +4,7 @@
 A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 
 link： https://mj.aitool360.com/
+
+数据来源于： https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+
+但我做成了网站，加载更快！
