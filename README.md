@@ -8,3 +8,8 @@ A reference containing Styles and Keywords that you can use with MidJourney AI. 
 但我做成了网站，加载更快！
 
 url： https://mj.aitool360.com/
+
+
+<img alt='ai大头兵' src="https://cdn.jsdelivr.net/gh/aibighead/MidJourney-Styles-and-Keywords-Reference-WWW@main/pages.png" width="395" height="144" />
+
+<img alt='ai大头兵' src="https://cdn.jsdelivr.net/gh/aibighead/MidJourney-Styles-and-Keywords-Reference-WWW@main/styles.png" width="395" height="144" />
